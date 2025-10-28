@@ -21,7 +21,7 @@ class Salg:
         self.price = self.price_validation(price)
 
     def __str__(self):
-        return f"{self.ansatt} - {self.car}. Тип: {self.cars_type}. Дата продажу:{self.salg_date}. Реальна ціна продажу:{self.price}"
+        return f"{self.ansatt} - {self.car}. Дата продажу:{self.salg_date}. Реальна ціна продажу:{self.price}"
 
     @staticmethod
     def get_file_name():

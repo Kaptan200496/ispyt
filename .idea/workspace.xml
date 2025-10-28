@@ -4,26 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12e91de0-876c-44c9-87d6-514a9ec7e9d4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/ispyt.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/employee.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/salg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/report_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/уеі.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/car_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/employee_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/services/salg_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/json_storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/storage/storage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_services.py" afterDir="false" />
+    <list default="true" id="12e91de0-876c-44c9-87d6-514a9ec7e9d4" name="Changes" comment="ispyt">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/salg.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/salg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/уеі.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Kaptan200496"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Kaptan200496/ispyt.git",
+    "accountId": "7ef3943f-a12c-4944-8611-a036392f9dd6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -48,25 +46,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.car-class (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.car-class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.class-employee (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.class-employee.executor&quot;: &quot;Run&quot;,
-    &quot;Python.employee (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.json_storage.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.report_service.executor&quot;: &quot;Run&quot;,
-    &quot;Python.salg-class (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.salg-class.executor&quot;: &quot;Run&quot;,
-    &quot;Python.storage.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.car-class (1).executor": "Run",
+    "Python.car-class.executor": "Run",
+    "Python.class-employee (1).executor": "Run",
+    "Python.class-employee.executor": "Run",
+    "Python.employee (1).executor": "Run",
+    "Python.json_storage.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.report_service.executor": "Run",
+    "Python.salg-class (1).executor": "Run",
+    "Python.salg-class.executor": "Run",
+    "Python.storage.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\evgen\OneDrive\Рабочий стол\ispyt" />
@@ -211,6 +214,18 @@
       <option name="presentableId" value="Default" />
       <updated>1760381675690</updated>
     </task>
+    <task id="LOCAL−00001" summary="ispyt">
+      <option name="closed" value="true" />
+      <created>1761669153609</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1761669153609</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ispyt" />
+    <option name="LAST_COMMIT_MESSAGE" value="ispyt" />
   </component>
 </project>
